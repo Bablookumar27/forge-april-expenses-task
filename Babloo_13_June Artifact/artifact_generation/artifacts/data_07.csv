@@ -1,0 +1,9 @@
+Order_ID,Date,Item_Description,Quantity,Unit_Price,Total
+ORD-101,2026-04-01,Calculator,1,10.0,10.0
+ORD-102,2026-04-02,Sticky Notes 4pk,1,10.0,10.0
+ORD-103,2026-04-03,Eraser,1,10.0,10.0
+ORD-104,2026-04-15,Markers and Canvas,2,42.5,85.0
+ORD-105,2026-04-15,Highlighters 4pk,1,15.0,15.0
+ORD-106,2026-04-16,Legal Pads 12pk,1,15.0,15.0
+ORD-107,2026-04-17,Stapler,1,15.0,15.0
+ORD-108,2026-04-18,Pencils 24pk,1,15.0,15.0
