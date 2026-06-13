@@ -1,0 +1,62 @@
+[
+  {
+    "id": "evt-001",
+    "summary": "Riverfront Spring Classic 5K (Family)",
+    "start": "2026-04-01T08:00:00Z",
+    "end": "2026-04-01T12:00:00Z",
+    "all_day": "false",
+    "calendar_id": "",
+    "creator": "",
+    "description": "",
+    "location": "",
+    "organizer": "",
+    "recurrence": "",
+    "status": "",
+    "visibility": ""
+  },
+  {
+    "id": "evt-002",
+    "summary": "Lions Game with Marcus",
+    "start": "2026-04-10T13:00:00Z",
+    "end": "2026-04-10T16:00:00Z",
+    "all_day": "false",
+    "calendar_id": "",
+    "creator": "",
+    "description": "",
+    "location": "",
+    "organizer": "",
+    "recurrence": "",
+    "status": "",
+    "visibility": ""
+  },
+  {
+    "id": "evt-003",
+    "summary": "The Forge - State University Field Trip",
+    "start": "2026-04-26T09:00:00Z",
+    "end": "2026-04-26T15:00:00Z",
+    "all_day": "false",
+    "calendar_id": "",
+    "creator": "",
+    "description": "",
+    "location": "",
+    "organizer": "",
+    "recurrence": "",
+    "status": "",
+    "visibility": ""
+  },
+  {
+    "id": "evt-004",
+    "summary": "Nia Choir Practice",
+    "start": "2026-04-06T18:00:00Z",
+    "end": "2026-04-06T19:30:00Z",
+    "all_day": "false",
+    "calendar_id": "",
+    "creator": "",
+    "description": "",
+    "location": "",
+    "organizer": "",
+    "recurrence": "",
+    "status": "",
+    "visibility": ""
+  }
+]
