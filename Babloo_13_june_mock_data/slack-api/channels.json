@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C01A2B3C",
+    "name": "the-forge-admin",
+    "is_channel": true,
+    "num_members": 4,
+    "is_archived": "false",
+    "is_private": "false",
+    "purpose": "",
+    "topic": "",
+    "created": "1500000000",
+    "creator": ""
+  },
+  {
+    "id": "C02D4E5F",
+    "name": "general",
+    "is_channel": true,
+    "num_members": 42,
+    "is_archived": "false",
+    "is_private": "false",
+    "purpose": "",
+    "topic": "",
+    "created": "1500000000",
+    "creator": ""
+  },
+  {
+    "id": "C03G6H7I",
+    "name": "prayer-requests",
+    "is_channel": true,
+    "num_members": 20,
+    "is_archived": "false",
+    "is_private": "false",
+    "purpose": "",
+    "topic": "",
+    "created": "1500000000",
+    "creator": ""
+  }
+]
