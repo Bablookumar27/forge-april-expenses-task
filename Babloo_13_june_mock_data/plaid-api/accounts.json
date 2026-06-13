@@ -1,0 +1,14 @@
+[
+  {
+    "account_id": "chk-9901",
+    "mask": "4421",
+    "name": "Primary Checking",
+    "type": "depository",
+    "subtype": "checking",
+    "current": "4120.5",
+    "available": "0.0",
+    "iso_currency_code": "",
+    "limit": "0.0",
+    "official_name": ""
+  }
+]
