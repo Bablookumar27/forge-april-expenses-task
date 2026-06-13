@@ -1,0 +1,52 @@
+[
+  {
+    "Id": "B-500",
+    "DocNumber": "MAR-001",
+    "VendorRef": {
+      "value": "100",
+      "name": "Office Depot"
+    },
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-04-15",
+    "TotalAmt": 45.0,
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "March Office Supplies",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "value": "A-10",
+            "name": "Default Account Name"
+          }
+        }
+      }
+    ],
+    "Balance": "0.0",
+    "PrivateNote": ""
+  },
+  {
+    "Id": "B-501",
+    "DocNumber": "APR-002",
+    "VendorRef": {
+      "value": "102",
+      "name": "Main St Deli"
+    },
+    "TxnDate": "2026-04-25",
+    "DueDate": "2026-05-25",
+    "TotalAmt": 185.0,
+    "Line": [
+      {
+        "Amount": 185.0,
+        "Description": "Sandwich Platters",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "value": "A-10",
+            "name": "Default Account Name"
+          }
+        }
+      }
+    ],
+    "Balance": "0.0",
+    "PrivateNote": ""
+  }
+]
